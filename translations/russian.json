@@ -190,11 +190,13 @@
 		"GABBRO_START_13": "Make a big explosion with the ship?! Are you crazy?! Alright, let's do it!",
 		"GABBRO_START_14": "Ha-ha, yep! <![CDATA[<i>*whistling*</i>]]>",
 		"GABBRO_START_14.1": "By the way, remember the new exhibit at the observatory? There is <![CDATA[<i>]]>a secret<![CDATA[</i>]]> associated with it. But I will tell about it only on Timber Hearth.",
-		"GABBRO_START_15": "So... I'm waiting for ship explosion! Hurry up and kill me already so we can start a new loop... and tell you <![CDATA[<i>]]>the secret!<![CDATA[</i>]]>",
+		"GABBRO_START_15": "So... I'm waiting for ship explosion! Hurry up and kill me already so we can start a new loop... and tell you <![CDATA[<i>]]>the secret!<![CDATA[</i>]]>. And will teach you how to meditate!",
 		"GABBRO_START_16": "Um. The thing is... my ship is already destroyed.",
 		"GABBRO_START_17": "Sure. I'm working on it.",
 		"GABBRO_START_18": "No luck then. Try not to screw this up next loop!",
 		"GABBRO_START_19": "Got it! I'll be here.",
+		"GABBRO_MEDITATION_1": "Can you teach me how to meditate?",
+		"GABBRO_MEDITATION_2": "Sure! Hear me out...",
 
 		// Gabbro tree
 		"GABBRO_TREE_1": "Hey! That was a really huge explosion! Are you alright?",
@@ -287,7 +289,7 @@
 		"MARL_START_1": "Эй! Видел это дерево? <![CDATA[<i>]]>Это моя работа.<![CDATA[</i>]]> Впечатляет, да?",
 		"MARL_START_2": "Да, это дерево впечатляющее.",
 		"MARL_START_3": "Вот, и я о том же! Удачи в космосе!",
-		"MARL_START_4": "Удачного полёта. Твоя миссия очень важна.",
+		"MARL_START_4": "Удачного полёта. Твоя задача очень важна.",
 		"MARL_START_5": "Marl, Tektite is asking for your help. There's a bramble seed on Timber Hearth and it's gro...",
 		"MARL_START_6": "<![CDATA[<i>]]>GROWING FAST?!<![CDATA[</i>]]>",
 		"MARL_START_7": "We need to cut down this bush as soon as possible! I'm going to Tektite! Let's meet there!",
@@ -340,27 +342,27 @@
 		"NPC_PLAYER_TREE_11": "That's just what I was thinking.",
 
 		// Porphy
-		"PORPHY_TREE_1": "Heyo, hatchling!",
-		"PORPHY_TREE_2": "How are you feeling before your big launch?",
-		"PORPHY_TREE_3": "Hey! I'm good.",
-		"PORPHY_TREE_4": "What's up with this barrel in the center of the Village?",
-		"PORPHY_TREE_5": "Are you happy about all the snow?",
-		"PORPHY_TREE_6": "Well, personally I prefered the previous climate.",
-		"PORPHY_TREE_7": "But honestly this temperature is much better for storing all my barrels of sap-wine!",
-		"PORPHY_TREE_8": "Okay, got it. I gotta go.",
-		"PORPHY_TREE_9": "Glad to hear it! You know how important our space program is. We all believe in you! Hornfels especially.",
-		"PORPHY_TREE_10": "Sure! By the way, what's up with this barrel in the center of the Village?",
-		"PORPHY_TREE_11": "Oh, yes, that's the biggest barrel I have in my collection. You like it?",
-		"PORPHY_TREE_12": "The geyser in the center of the Village has been inactive recently so we had to block off the hole for safety reasons. Maybe the wine in the barrel will end up having a different taste now?",
-		"PORPHY_TREE_13": "Anyway, I feel like with this tree and all the lights it was totally worth it.",
-		"PORPHY_TREE_15": "Bye!",
-		"PORPHY_TREE_16": "And good luck!",
-		"PORPHY_TREE_17": "Again.",
-		"PORPHY_TREE_18": "It's you again!",
-		"PORPHY_TREE_19": "What can help you with?",
-		"PORPHY_TREE_20": "Nothing actually.",
-		"PORPHY_TREE_21": "Are you happy about all the snow?",
-		"PORPHY_TREE_22": "Remind me, what's up with this barrel in the center of the Village?",
+		"PORPHY_TREE_1": "Привет!",
+		"PORPHY_TREE_2": "Как ты себя чувствуешь перед твоим важным полётом?",
+		"PORPHY_TREE_3": "Привет! Я в норме.",
+		"PORPHY_TREE_4": "Что это за бочка в центре Деревни?",
+		"PORPHY_TREE_5": "Радуешься снегу?",
+		"PORPHY_TREE_6": "Ну, лично мне больше нравился прежний климат",
+		"PORPHY_TREE_7": "Но, честно говоря, эта температура гораздо лучше для хранения всех моих бочек с вином!",
+		"PORPHY_TREE_8": "Окей, понял. Мне нужно идти.",
+		"PORPHY_TREE_9": "Рад это слышать! Ты знаешь, насколько важна для нас космическая программа. Мы все верим в тебя! Особенно Роговик.",
+		"PORPHY_TREE_10": "Кстати, что это за бочка в центре деревни?",
+		"PORPHY_TREE_11": "О, да, это самая большая бочка в моей коллекции. Нравится?",
+		"PORPHY_TREE_12": "Гейзер в центре Деревни в последнее время был неактивен, поэтому нам пришлось перекрыть отверстие в целях безопасности. Может быть, вино в бочке теперь будет иметь другой вкус?",
+		"PORPHY_TREE_13": "В любом случае, с деревьем и всеми этими огнями на гирлянде, я думаю что это стоило того.",
+		"PORPHY_TREE_15": "Пока!",
+		"PORPHY_TREE_16": "И удачи!",
+		"PORPHY_TREE_17": "Снова.",
+		"PORPHY_TREE_18": "Это снова ты!",
+		"PORPHY_TREE_19": "Чем я могу помочь?",
+		"PORPHY_TREE_20": "Ничем.",
+		"PORPHY_TREE_21": "Радуешься снегу?",
+		"PORPHY_TREE_22": "Напомни, что это за бочка в центре Деревни?",
 
 		// Prisoner start
 		"PRISONER_START_1": "...",
@@ -538,16 +540,16 @@
 
 		// Galena
 
-		"GALENA_START_1": "So you are going to bring all the travelers back home?",
-		"GALENA_START_2": "Yes, they will all be here soon.",
-		"GALENA_START_3": "I'm sorry that I tried to destroy your snowian.",
-		"GALENA_START_4": "What is that snowian made of?",
-		"GALENA_START_5": "It's unbreakable! When the adults were clearing out the rubble from the inactive geysers, Tephra found some <![CDATA[<i>]]>cool rocks<![CDATA[</i>]]>!",
-		"GALENA_START_6": "We stuck a snowian on top of the rocks and got this effect. It is soooo cool, isn't it?",
-		"GALENA_START_7": "It's very clever.",
-		"GALENA_START_8": "Good luck with it! We all miss them so much.",
-		"GALENA_START_9": "Thank you!",
-		"GALENA_START_10": "Mica will never break it, but it is still funny to see their attempts.",
+		"GALENA_START_1": "Так ты всё таки собираешься привести всех путешественников домой?",
+		"GALENA_START_2": "Да, скоро они будут здесь.",
+		"GALENA_START_3": "Извини, что я пытался сломать твоего снеговика.",
+		"GALENA_START_4": "Из чего сделан этот снеговик?",
+		"GALENA_START_5": "Он неразрушимый! Когда взрослые расчищали завалы от неработающих гейзеров, Тефра нашёл пару <![CDATA[<i>]]>крутых камней<![CDATA[</i>]]>!",
+		"GALENA_START_6": "Мы сделали снеговика поверх камней и получили такой эффект. Это таааак круто, да?",
+		"GALENA_START_7": "Очень умно.",
+		"GALENA_START_8": "Удачи! Нам будет тебя не хватать.",
+		"GALENA_START_9": "Спасибо!",
+		"GALENA_START_10": "Слюда никогда не сломает его, но всё равно забавно наблюдать за её попытками.",
 
 		// Moraine
 
@@ -582,10 +584,10 @@
 
 		// Tephra
 
-		"TEPHRA_START_1": "Hullo! Are you going to the space today?",
-		"TEPHRA_START_2": "Yes, as planned.",
-		"TEPHRA_START_3": "Galena said that you found <![CDATA[<i>]]>Nomai cairn<![CDATA[</i>]]> for your snowian?",
-		"TEPHRA_START_4": "Awww, you mean those magic rocks? Yes, they were near those strange wires when Marl cleared out the dead geysers.",
+		"TEPHRA_START_1": "Привет! Ты сегодня улетаешь в космос?",
+		"TEPHRA_START_2": "По плану, да.",
+		"TEPHRA_START_3": "Галенит сказал что ты использовал <![CDATA[<i>]]>указатель Номаи<![CDATA[</i>]]> для своего снеговика?",
+		"TEPHRA_START_4": "Ааа, ты имеешь в виду те волшебные камни? Да, они были рядом с странными проводами, когда Мергель очищал мертвые гейзеры.",
 
 		"TEPHRA_START_4.1": "There also was a <![CDATA[<i>]]>flickering Nomai thing with blue lights<![CDATA[</i>]]> near the rocks, but it was carried away by river and we lost it!",
 		"TEPHRA_START_4.2": "Try to find it <![CDATA[<i>]]>somewhere<![CDATA[</i>]]> in river here.",
@@ -707,7 +709,7 @@
 		"SHIP_TOY_4": "Remove toy.",
 		"SHIP_TOY_5": "Nevermind.",
 
-		"CAIRN_1": "<![CDATA[<color=orange>Ash Twin Project</color>]]> experimental interplanetary data transmission. \n(10m)",
+		"CAIRN_1": "<![CDATA[<color=orange>Проект Час Пепла</color>]]>, экспериментальная межпланетная передача данных. \n(10м)",
 
 		"RECORDER_1": "OENO: Coleus, could you remind me what the idea you are working on is exactly?",
 		"RECORDER_2": "COLEUS: Yes, of course. Imagine the Sun Station works as intended, why shouldn't we have a remote location to monitor it and the <![CDATA[<color=orange>Ash Twin Project</color>]]> from?",
